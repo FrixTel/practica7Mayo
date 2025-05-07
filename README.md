@@ -14,7 +14,7 @@
 1. Set up your table and code blocks.
 1. Perform this step.
 
-   ![screen]([)](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
+   ![screen](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
 
 1. Make sure that your table looks like this:
 
@@ -30,4 +30,4 @@
 
 1. Do another step.
 
-![uni]([)](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
+![uni](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
