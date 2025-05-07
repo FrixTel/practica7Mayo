@@ -14,7 +14,7 @@
 1. Set up your table and code blocks.
 1. Perform this step.
 
-   ![screen](https://experienceleague.adobe.com/docs/contributor/assets/adobe_standard_logo.png?lang=es)
+   ![screen]([)](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
 
 1. Make sure that your table looks like this:
 
