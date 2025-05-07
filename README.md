@@ -29,3 +29,5 @@
    >This is note text.
 
 1. Do another step.
+
+![uni]([)](https://github.com/FrixTel/practica7Mayo/blob/main/upjr.jpeg)
